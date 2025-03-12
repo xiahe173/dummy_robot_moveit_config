@@ -1,0 +1,11 @@
+# Default initial positions for dummy_robot's ros2_control fake system
+
+initial_positions:
+  finger_left_pos: 0
+  finger_right_pos: 0
+  joint0_1: 0
+  joint1_2: 0
+  joint2_3: 0
+  joint3_4: 0
+  joint4_5: 0
+  joint5_6: 0
